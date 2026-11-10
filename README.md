@@ -1,7 +1,7 @@
-# BMIS 235 · HTML-1 · Styling: Kayli's Favorite Place
+# BMIS 235 · HTML-1 · Styling: Lake Tahoe
 
-**Name:** YOUR NAME
-**GU username:** YOUR-GU-USERNAME
+**Name:** Kayli McDonald
+**GU username:** kmcdonald4
 
 My live page: https://YOUR-GITHUB-USERNAME.github.io/bmis235-html-1/
 
